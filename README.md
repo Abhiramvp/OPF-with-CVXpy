@@ -3,9 +3,8 @@
 This repository contains a Python implementation of **Optimal Power Flow (OPF)** using **CVXPY**, with MATPOWER-style test cases loaded via **PYPOWER**.
 
 ## Notebook
-- **OPF_cvxpy.ipynb**  
   
-[![Open Notebook](https://raw.githubusercontent.com/Abhiramvp/OPF-with-CVXpy/main/notebook.svg)](https://github.com/Abhiramvp/OPF-with-CVXpy/blob/main/OPF_cvxpy.ipynb)
+[![OPF_cvxpy.ipynb](https://raw.githubusercontent.com/Abhiramvp/OPF-with-CVXpy/main/notebook.svg)](https://github.com/Abhiramvp/OPF-with-CVXpy/blob/main/OPF_cvxpy.ipynb)
 
 ## Description
 The notebook demonstrates:
