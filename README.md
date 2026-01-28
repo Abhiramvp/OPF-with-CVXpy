@@ -5,7 +5,7 @@ This repository contains a Python implementation of **Optimal Power Flow (OPF)**
 ## Notebook
 - **OPF_cvxpy.ipynb**  
   
-[![Open Notebook](https://raw.githubusercontent.com/Abhiramvp/OPF-with-CVXpy/main/assets/notebook.svg)](https://github.com/Abhiramvp/OPF-with-CVXpy/blob/main/OPF_cvxpy.ipynb)
+[![Open Notebook](https://raw.githubusercontent.com/Abhiramvp/OPF-with-CVXpy/main/notebook.svg)](https://github.com/Abhiramvp/OPF-with-CVXpy/blob/main/OPF_cvxpy.ipynb)
 
 ## Description
 The notebook demonstrates:
