@@ -12,7 +12,7 @@ This repo contains a **semidefinite programming (SDP) relaxation** of **AC Optim
 ## Run in Google Colab
 Open the notebook directly in Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/OPF_cvxpy.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/OPF_cvxpy.ipynb](https://github.com/Abhiramvp/OPF-with-CVXpy/blob/main/OPF_cvxpy.ipynb))
 
 ## Notes
 - This is a **convex relaxation** of the nonconvex AC-OPF problem (rank-1 constraint dropped).
